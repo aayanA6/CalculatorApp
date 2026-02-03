@@ -2,7 +2,7 @@
 
 A fully functional iOS-style calculator built with React Native and Expo. This calculator replicates the classic iOS calculator design with a clean, minimalist interface and smooth touch interactions.
 
-![Calculator Screenshot](./assets/IMG_9038.png)
+![Calculator Screenshot](./assets/calculator-screenshot.png)
 
 ## ✨ Features
 
